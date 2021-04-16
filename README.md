@@ -1,4 +1,4 @@
 - ✨ Hello,I'm Jothi sree 
 - ✨Student @R.M.D Engineering College - B.tech(Information Technology)
 - 🔭 I’m currently working on Healthcare Chatbot project.
-- 🌱 I’m currently learning DBMS and Python3
+- 🌱 I’m interested in Python3, SQL ,C,HTML,CSS and Web development
